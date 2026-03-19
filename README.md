@@ -1,7 +1,7 @@
 TrainPix.org wallpapers
 =======================
 
-This is downloader for train pictures from https://trainpix.org/voting.php?show=results.
+This is downloader for train pictures Trainpix.
 
 ## Dependencies
 * __Go.__ This project works with Golang v1.11.1, further Go versions probably should work.
